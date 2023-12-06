@@ -1,0 +1,23 @@
+{
+  "name": "k523 Piglet",
+  "description": "k523 Piglet - super crazy cute one!",
+  "image": "https://blush-leading-dolphin-31.mypinata.cloud/ipfs/Qmdtx4P1PNZh11XBoWQQknHUvmZkUMrmKi7kE74q5itcjC",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "PINK BAIGE"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Voice",
+      "value": "skrrrrr"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Piglet with Flowers"
+    }
+  ]
+}
